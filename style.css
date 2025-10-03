@@ -1,4 +1,4 @@
-/*Najaun Francis, 2304842*/
+/*Najaun Francis, 2304842, 2304842_IA1_S1AY26, https://najnotes.github.io/2304842_IA1_S1AY26/Codes/ */
 .main{
     /*I wanted to have an image as the background*/
     background: url(/Assets/background.jpg);
@@ -20,7 +20,7 @@
     left: 20%;
 }
 .title span{
-    color: #1081ad;
+    color: white;
 }
 /*Default Text and Heding styling*/
 /*heading*/
@@ -96,7 +96,7 @@ h5 {
     padding:10px;
     justify-content: space-between;
     box-sizing: border-box;/*apparently this stops items from existing outside the box*/
-    background-color: #7296a5;
+    background-color: #1081ad;
     }
 .nav ul li{/*positon of the list*/
     list-style:none;/*Didn't like the point style presentation*/

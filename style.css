@@ -1,7 +1,7 @@
 /*Najaun Francis, 2304842*/
 .main{
     /*I wanted to have an image as the background*/
-    background: url(/Assets/background.jpg);
+    background: url(Assets/background.jpg);
     background-position: center;
     background-size:cover;
     font-family:sans-serif;
